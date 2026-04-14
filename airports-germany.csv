@@ -1,0 +1,99 @@
+name,latitude,longitude,country,region,elevation_m,population,feature_type,geoname_id
+Munich International Airport,48.35378,11.78609,Germany,Bavaria,453,0,airport,3208399
+Frankfurt Airport,50.0406,8.55603,Germany,Hesse,110,0,airport,6290293
+Cologne Bonn Airport,50.87894,7.12292,Germany,North Rhine-Westphalia,92,0,airport,6296510
+Hamburg Airport,53.63039,9.98823,Germany,Hamburg,16,0,airport,3208174
+Augsburg Airport,48.42516,10.93176,Germany,Bavaria,461,0,airport,3208383
+Düsseldorf International Airport,51.28066,6.76715,Germany,North Rhine-Westphalia,44,0,airport,3206096
+Erfurt–Weimar Airport,50.97981,10.95811,Germany,Thuringia,315,0,airport,6296508
+Frankfurt-Hahn,49.94867,7.26389,Germany,Rheinland-Pfalz,502,0,airport,6296512
+Neubrandenburg Airport,53.60217,13.306,Germany,Mecklenburg-Vorpommern,69,0,airport,6296862
+Memmingen Airport,47.98751,10.23622,Germany,Bavaria,629,0,airport,6941441
+Berlin Brandenburg Airport,52.36213,13.50168,Germany,Brandenburg,,0,airport,8181624
+Eisenach-Kindel Airport,50.99177,10.48077,Germany,Thuringia,,0,airport,3207500
+Aachen-Merzbrück Airport,50.82345,6.18844,Germany,North Rhine-Westphalia,,0,airport,3207669
+NATO Air Base Geilenkirchen,50.96075,6.04068,Germany,North Rhine-Westphalia,,0,airport,3207674
+Koblenz-Winningen Airport,50.32531,7.52906,Germany,Rheinland-Pfalz,,0,airport,3207980
+Bremen Airport,53.0475,8.78667,Germany,City state Bremen,4,0,airport,3208171
+Hamburg Finkenwerder Airport,53.53589,9.83703,Germany,Hamburg,7,0,airport,3208175
+Sea-Airport Cuxhaven/Nordholz,53.76667,8.66667,Germany,Lower Saxony,23,0,airport,3208284
+Itzehoe-Hungriger Wolf,53.99157,9.5757,Germany,Schleswig-Holstein,,0,airport,3208309
+Fürstenfeldbruck AB,48.2056,11.26614,Germany,Bavaria,,0,airport,3208388
+Ingolstadt Manching Airport,48.72325,11.54024,Germany,Bavaria,366,0,airport,3208391
+Flensburg-Schäferhaus Airport,54.77194,9.37833,Germany,Schleswig-Holstein,40,0,airport,3208574
+Heligoland Airport,54.18587,7.91466,Germany,Schleswig-Holstein,,0,airport,3208576
+Schleswig Air Base,54.45933,9.51633,Germany,Schleswig-Holstein,21,0,airport,3208584
+Braunschweig-Wolfsburg Airport,52.31917,10.55611,Germany,Lower Saxony,89,0,airport,3208632
+Celle Air Base,52.59142,10.02408,Germany,Lower Saxony,,0,airport,3208633
+Rostock-Laage Airport,53.91667,12.26667,Germany,Mecklenburg-Vorpommern,,0,airport,3208726
+Friedrichshafen Airport,47.66667,9.5,Germany,Baden-Wurttemberg,,0,airport,3208823
+Black Forest Airport,48.35642,7.82561,Germany,Baden-Wurttemberg,,0,airport,3208827
+Bitburg Airport,49.9447,6.56407,Germany,Rheinland-Pfalz,373,0,airport,3208843
+Saarbrücken Airport,49.21455,7.10951,Germany,Saarland,322,0,airport,3208966
+Dresden Airport,51.13277,13.76716,Germany,Saxony,230,0,airport,3209038
+Lübeck Airport,53.80537,10.71922,Germany,Schleswig-Holstein,16,0,airport,3209094
+Parchim International Airport,53.42966,11.78133,Germany,Mecklenburg-Vorpommern,,0,airport,3209107
+Bielefeld Windelsbleiche Airport,51.96521,8.55062,Germany,North Rhine-Westphalia,,0,airport,3209112
+Stralsund Barth Airport,54.3381,12.71573,Germany,Mecklenburg-Vorpommern,,0,airport,3209284
+Giebelstadt,49.64778,9.96833,Germany,Bavaria,,0,airport,3274978
+Frankfurt Egelsbach Airport,49.96166,8.64169,Germany,Hesse,,0,airport,3272939
+Düsseldorf Mönchengladbach Airport,51.23145,6.49987,Germany,North Rhine-Westphalia,,0,airport,3206109
+Stuttgart Airport,48.69034,9.19521,Germany,Baden-Wurttemberg,388,0,airport,3206322
+Hannover  Airport,52.45957,9.69269,Germany,Lower Saxony,55,0,airport,3206636
+Straubing Wallmühle Airport,48.9009,12.51789,Germany,Bavaria,,0,airport,3206777
+Bayreuth,49.98333,11.63333,Germany,Bavaria,,0,airport,3207013
+Fritzlar,51.1,9.28333,Germany,Hesse,,0,airport,3207050
+RAF Gütersloh,51.9231,8.30596,Germany,North Rhine-Westphalia,,0,airport,3207063
+Paderborn Lippstadt Airport,51.6081,8.61139,Germany,North Rhine-Westphalia,213,0,airport,3207070
+Magdeburg–Cochstedt Airport,51.85606,11.41947,Germany,Saxony-Anhalt,,0,airport,3207101
+Leipzig–Altenburg Airport,50.98182,12.50636,Germany,Thuringia,195,0,airport,6296505
+Heringsdorf Airport,53.87871,14.15235,Germany,Mecklenburg-Vorpommern,28,0,airport,6296506
+Münster Osnabrück International Airport,52.13464,7.68483,Germany,North Rhine-Westphalia,48,0,airport,6296509
+Nuremberg Airport,49.49575,11.07576,Germany,Bavaria,318,0,airport,6296511
+Mannheim City Airport,49.4725,8.51556,Germany,Baden-Wurttemberg,100,0,airport,6296513
+Kiel / Holtenau Civilian,54.3795,10.14517,Germany,Schleswig-Holstein,30,0,airport,6296516
+Weeze Airport,51.6025,6.14222,Germany,North Rhine-Westphalia,32,0,airport,6296519
+Dortmund Airport,51.51831,7.61224,Germany,North Rhine-Westphalia,129,0,airport,6296520
+Hof–Plauen Airport,50.28884,11.85492,Germany,Bavaria,597,0,airport,6296525
+Baden Airpark,48.77935,8.0805,Germany,Baden-Wurttemberg,124,0,airport,6296527
+Kassel Calden Airport,51.40839,9.37763,Germany,Hesse,276,0,airport,6296531
+Westerland / Sylt,54.91325,8.34047,Germany,Schleswig-Holstein,15,0,airport,6296533
+Spangdahlem AB,49.97267,6.6925,Germany,Rheinland-Pfalz,364,0,airport,6296820
+Ramstein,49.43691,7.60028,Germany,Rheinland-Pfalz,236,0,airport,6296821
+Rheine-Bentlage Air Base,52.29117,7.387,Germany,North Rhine-Westphalia,39,0,airport,6296837
+Kitzingen Airport,49.74306,10.20056,Germany,Bavaria,210,0,airport,6296850
+Wiesbaden Airport,50.04982,8.3254,Germany,Hesse,140,0,airport,6296864
+Varrelbusch Airport,52.90833,8.04056,Germany,Lower Saxony,,0,airport,7730470
+Leipzig-Halle Airport,51.42126,12.22195,Germany,Saxony,,0,airport,6615410
+Essen/Mülheim Airport,51.40325,6.94001,Germany,North Rhine-Westphalia,129,0,airport,6457352
+Rechlin-Lärz Airfield,53.30483,12.74603,Germany,Mecklenburg-Vorpommern,,0,airport,8520835
+Landsberg-Lech Air Base,48.06667,10.9,Germany,Bavaria,,0,airport,3208393
+Faßberg Air Base,52.91667,10.18333,Germany,Lower Saxony,,0,airport,3208635
+Strausberg Airport,52.58016,13.91719,Germany,Brandenburg,,0,airport,3208765
+Holzdorf Air Base,51.76667,13.16667,Germany,Brandenburg,,0,airport,3208984
+Laupheim Air Base,48.21667,9.91667,Germany,Baden-Wurttemberg,,0,airport,3206311
+"Magdeburg, Sachsen-Anhalt",52.07366,11.62647,Germany,Saxony-Anhalt,81,0,airport,6296507
+Oberpfaffenhofen,48.08136,11.28307,Germany,Bavaria,593,0,airport,6296521
+Donaueschingen / Villingen,47.97333,8.52222,Germany,Baden-Wurttemberg,680,0,airport,6296528
+Bückeburg Air Base,52.2785,9.08217,Germany,Lower Saxony,70,0,airport,6296835
+Mendig Air Base,50.366,7.31533,Germany,Rheinland-Pfalz,181,0,airport,6296841
+Buechel,50.17383,7.06333,Germany,Rheinland-Pfalz,477,0,airport,6296866
+Bad Langensalza Airport,51.12911,10.62159,Germany,Thuringia,,0,airport,8533072
+Erding Airport,48.31667,11.93333,Germany,Bavaria,,0,airport,3208387
+Dessau,51.83167,12.19354,Germany,Saxony-Anhalt,,0,airport,3209058
+Wittmundhaven,53.54783,7.66733,Germany,Lower Saxony,7,0,airport,6296861
+Pforzheim,48.9,8.7,Germany,Baden-Wurttemberg,,0,airport,8299240
+Neuburg,48.7,11.21667,Germany,Bavaria,,0,airport,3208401
+Jever,53.53333,7.88333,Germany,Lower Saxony,,0,airport,3208524
+Hohn,54.31217,9.53817,Germany,Schleswig-Holstein,12,0,airport,3208577
+Niederstetten,49.39139,9.95889,Germany,Baden-Wurttemberg,,0,airport,3274960
+Diepholz,52.58333,8.33333,Germany,Lower Saxony,,0,airport,3206633
+Wunstorf,52.45,9.43333,Germany,Lower Saxony,,0,airport,3206645
+Grafenwoehr,49.69869,11.94017,Germany,Bavaria,415,0,airport,6296845
+Hohenfels,49.21676,11.83648,Germany,Bavaria,443,0,airport,6296848
+Coleman Mannheim,49.56667,8.46667,Germany,Baden-Wurttemberg,96,0,airport,6301536
+Verkehrslandeplatz Eisenhüttenstadt,52.1934,14.59311,Germany,Brandenburg,,0,airport,6951708
+Flugplatz Würzburg Schenkenturm,49.81835,9.89933,Germany,Bavaria,,0,airport,11142839
+Segelfluggelände Übersberg,48.45802,9.28971,Germany,Baden-Wurttemberg,,0,airport,11048872
+Airfield Leer Papenburg,53.27183,7.44367,Germany,Lower Saxony,,0,airport,11153073
+Sonderlandeplatz Altomünster,48.3823,11.2735,Germany,Bavaria,,0,airport,6543883
